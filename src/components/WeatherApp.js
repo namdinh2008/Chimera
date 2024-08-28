@@ -18,7 +18,7 @@ const WeatherApp = () => {
 
   return (
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
-      <h1>Weather App</h1>
+      <h1>Weather App Global</h1>
       <input
         type="text"
         value={city}
